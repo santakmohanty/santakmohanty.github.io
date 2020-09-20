@@ -1,6 +1,9 @@
 Santak's Website Files:
 
-Last Update: 16/09/2020
+initial commit: 16/09/2020
+Update: 20/09/2020
+
+
 
 Author: Santak Mohanty
-Author URL: santakmohanty.github.io
+URL: santakmohanty.github.io
